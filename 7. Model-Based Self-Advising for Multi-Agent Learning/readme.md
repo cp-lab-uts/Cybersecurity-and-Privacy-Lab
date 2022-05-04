@@ -1,7 +1,6 @@
 There are two main experimental platform we use one is CARLA 0.9.9, another is HFO.
 
 CARLA: https://github.com/carla-simulator/carla
-
 HFO: https://github.com/LARG/HFO
 
 1. CARLA_RL.py is the code of deep reinforcement learning method on CARLA.
